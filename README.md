@@ -1,5 +1,5 @@
 
-# Orange's AI
+# Malanxia's Bio
 <img src="https://raw.githubusercontent.com/malanxia/malanxia-intro/main/malanxia20-20.png" alt="avatar" width="100" height="100">
 
 ## About Me
@@ -14,18 +14,14 @@
 
 Twitter [@hzq](https://twitter.com/hzq) 
 
-Weibo [notion.orangesai.com](https://notion.orangesai.com)
+Weibo [https://weibo.com/1642480695/profile?topnav=1&wvr=6](https://weibo.com/1642480695/profile?topnav=1&wvr=6)
 
-Telegram  [t.me/aigcnote](https://t.me/aigcnote) 
+Douyin [https://v.douyin.com/2vtaESd/](https://v.douyin.com/2vtaESd/) 
 
-Newsletter [orangeai.substack.com](https://orangeai.substack.com/)
-
-即刻 [orange.ai](https://web.okjike.com/u/FCEA29D3-5BB5-4174-B7A9-1DEE77CEDC46)
-
-Github [orange2ai](https://github.com/orange2ai) 
+SMZDM [https://zhiyou.smzdm.com/member/7694707779/](https://zhiyou.smzdm.com/member/7694707779/)
 
 ## Contact
 
-Email <a href="mailto:i@orangesai.com">i@orangesai.com</a>
+Email <a href="hzq@malanxia.com">hzq@malanxia.com</a>
 
-Telegram [@orange_ai](https://t.me/orange_ai)
+Telegram [@malanxia](https://t.me/malanxia)
