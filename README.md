@@ -1,20 +1,20 @@
 
 # Orange's AI
-<img src="https://raw.githubusercontent.com/orange2ai/orange2ai/main/orange.png" alt="avatar" width="100" height="100">
+<img src="https://raw.githubusercontent.com/malanxia/malanxia-intro/main/malanxia20-20.png" alt="avatar" width="100" height="100">
 
 ## About Me
 
-AI 产品经理。
+尝试学习网络编程。
 
-Obsidian 用户。
+业余跑步爱好者。
 
-贯彻卡片笔记法与分享即学习。
+自媒体参与者。
 
 ## Digital Life
 
-Twitter [@oran_ge](https://twitter.com/oran_ge) 
+Twitter [@hzq](https://twitter.com/hzq) 
 
-Blog [notion.orangesai.com](https://notion.orangesai.com)
+Weibo [notion.orangesai.com](https://notion.orangesai.com)
 
 Telegram  [t.me/aigcnote](https://t.me/aigcnote) 
 
